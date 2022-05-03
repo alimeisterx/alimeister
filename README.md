@@ -3,7 +3,7 @@
 <h3 align ='center'>I believe that computer science is not really about the computer. It is just a tool to help you see ideas more clearly and I want to help the world achieve clarity of ideas.</h3>
 
 
-- 👨‍💻  I’m currently learning **Machine Learning, Deep Learning (Computer Vision - NLP)**  🤖
+- 👨‍💻  I’m currently learning **Machine Learning | Deep Learning ( Computer Vision | NLP )**  🤖
 
 
 <h3 align="left">Connect with me:</h3>

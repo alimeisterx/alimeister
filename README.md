@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amekerba" target="blank"><img src="https://img.shields.io/twitter/follow/amekerba?logo=twitter&style=for-the-badge" alt="amekerba" /></a> </p>
 
-- 👨‍💻 I’m currently learning **Machine Learning, Deep Learning (Computer Vision - NLP)** 🤖
+- 👨‍💻  I’m currently learning **Machine Learning, Deep Learning (Computer Vision - NLP)**  🤖
 
 
 

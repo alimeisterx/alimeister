@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Mekerba</h1>
+<h1 align="center">What's Up My Glip Glops?! I'm Ali Mekerba</h1>
 <h3 align="center">Second-year Operations Research and Computer Science student, Python [ ML/DL - Computer Vision - MediaPipe - TensorFlow - FastAPI - Django - Selenium ], Flutter Developer and AI Enthusiast.</h3>
 <h3 align ='center'>I believe that computer science is not really about the computer. It is just a tool to help you see ideas more clearly and I want to help the world achieve clarity of ideas.</h3>
 

@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ali Mekerba</h1>
 <h3 align="center">Second-year Operations Research and Computer Science student, Python [ ML/DL - Computer Vision - MediaPipe - TensorFlow - FastAPI - Django - Selenium ], Flutter Developer and AI Enthusiast. My passion for computer science, mathematics brought me to University Of Science And Technology Houari Boumediene. I'm working as Marketing Communication Manager at MédafCO since February 2021. I'm a Flutter Tutor, GDG Algiers IT Member and a former Content Creator and Design Manger at AIESEC in Babez. I believe that computer science is not really about the computer. It is just a tool to help you see ideas more clearly and I want to help the world achieve clarity of ideas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimeister&label=Profile%20views&color=0e75b6&style=flat" alt="alimeister" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimeister" alt="alimeister" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amekerba" target="blank"><img src="https://img.shields.io/twitter/follow/amekerba?logo=twitter&style=for-the-badge" alt="amekerba" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning (Computer Vision - NLP)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

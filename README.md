@@ -1,5 +1,5 @@
 <h1 align="center">What's Up My Glip Glops?! I'm Ali Mekerba</h1>
-<h3 align="center">Second-year Operations Research and Computer Science student, Python [ Machine Learning - Deep Learning - Computer Vision - NLP - FastAPI - Django - Automation - Web Scraping ], Flutter Developer and AI Enthusiast.</h3>
+<h3 align="center">Second-year Operations Research and Computer Science student, Flutter Developer, Python Developer ( Django, FastAPI, Selenium, Web Scraping ) and AI Enthusiast ( Machine Learning, Deep Learning, Computer Vision, NLP )</h3>
 <h3 align ='center'>I believe that computer science is not really about the computer. It is just a tool to help you see ideas more clearly and I want to help the world achieve clarity of ideas.</h3>
 
 

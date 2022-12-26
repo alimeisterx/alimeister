@@ -28,3 +28,4 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alimeister)](https://git.io/awesome-stats-card)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimeister&layout=compact)](https://github.com/alimeister/github-readme-stats)

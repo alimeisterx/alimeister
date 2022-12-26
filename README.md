@@ -1,5 +1,5 @@
 <h1 align="center">What's Up My Glip Glops?! I'm Ali Mekerba</h1>
-<h3 align="center">Second-year Operations Research and Computer Science student</h3>
+<h3 align="center">Operations Research Student</h3>
 <h3 align="center">Flutter Developer</h3>
 <h3 align="center">Python Developer { Django, FastAPI, Selenium, Web Scraping }</h3>
 <h3 align="center">AI Enthusiast { Machine Learning, Deep Learning, Computer Vision, NLP }</h3>

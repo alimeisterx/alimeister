@@ -1,5 +1,6 @@
 
-<h3 align ='center'>I believe that computer science is not really about the computer. It is just a tool to help you see ideas more clearly and I want to help the world achieve clarity of ideas.</h3>
+<h3 align ='center'>I believe that computer science is not really about the computer.</h3>
+<h3 align ='center'>It is just a tool to help you see ideas more clearly and I want to help the world achieve clarity of ideas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

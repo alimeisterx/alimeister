@@ -6,9 +6,6 @@
 <h3 align ='center'>I believe that computer science is not really about the computer. It is just a tool to help you see ideas more clearly and I want to help the world achieve clarity of ideas.</h3>
 
 
-- 👨‍💻  I’m currently learning **Machine Learning, Deep Learning ( Computer Vision | NLP )**  🤖
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/alimeister" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/alimeister" height="30" width="40" /></a>

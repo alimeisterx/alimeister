@@ -11,5 +11,3 @@
 <p align="left">
 <a href="https://twitter.com/AMekerba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amekerba" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ali-mekerba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-mekerba-941714201/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alispider02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alispider02" height="30" width="40" /></a>
-<a href="https://discord.gg/alimeisterx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alimeisterx" height="30" width="40" /></a>
